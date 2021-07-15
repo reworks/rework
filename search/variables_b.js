@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['s_5fcounter_3130',['s_counter',['../classgalaxy_1_1meta_1_1_static_i_d_gen.html#affcee1dbe163bae13d2a74a35fad04a5',1,'galaxy::meta::StaticIDGen::s_counter()'],['../classgalaxy_1_1meta_1_1_unique_i_d.html#a6f48e0f754eb77f2b65bc137327026cd',1,'galaxy::meta::UniqueID::s_counter()']]],
+  ['sharpen_5ffrag_3131',['sharpen_frag',['../_sharpen_8cpp.html#a51a8562e7b1ca4ee31eb33bbda648074',1,'Sharpen.cpp']]],
+  ['sharpen_5fvert_3132',['sharpen_vert',['../_sharpen_8cpp.html#aa4c1b78d973941eab9aca355e8430419',1,'Sharpen.cpp']]],
+  ['smaa_5farea_5ftex_3133',['smaa_area_tex',['../_s_m_a_a_8cpp.html#af5091f519647402cc627d1cff82c3889',1,'SMAA.cpp']]],
+  ['smaa_5fblend_5ffrag_3134',['smaa_blend_frag',['../_s_m_a_a_8cpp.html#a1f97b157586d4a6cb9efc9b2cd5d0e75',1,'SMAA.cpp']]],
+  ['smaa_5fblend_5fvert_3135',['smaa_blend_vert',['../_s_m_a_a_8cpp.html#a07db1ea74e5407674895547422b94890',1,'SMAA.cpp']]],
+  ['smaa_5fcore_5fpart1_3136',['smaa_core_part1',['../_s_m_a_a_8cpp.html#ac6776105f566b9b71b151a84ed9dbf29',1,'SMAA.cpp']]],
+  ['smaa_5fcore_5fpart2_3137',['smaa_core_part2',['../_s_m_a_a_8cpp.html#aa5d9fd909cc032ba09c55bab06673ae0',1,'SMAA.cpp']]],
+  ['smaa_5fcore_5fpart3_3138',['smaa_core_part3',['../_s_m_a_a_8cpp.html#adef7f3c817e823f6bedfd0e5375d2606',1,'SMAA.cpp']]],
+  ['smaa_5fcore_5fpart4_3139',['smaa_core_part4',['../_s_m_a_a_8cpp.html#a2ae3f6d8ca15fbe3f4716acd8dacff4a',1,'SMAA.cpp']]],
+  ['smaa_5fedge_5ffrag_3140',['smaa_edge_frag',['../_s_m_a_a_8cpp.html#ac743c083251ae7e435362bb7dcedb90e',1,'SMAA.cpp']]],
+  ['smaa_5fedge_5fvert_3141',['smaa_edge_vert',['../_s_m_a_a_8cpp.html#afe57d350f6c416ba9c8294f656453b26',1,'SMAA.cpp']]],
+  ['smaa_5fheader_5ffrag_3142',['smaa_header_frag',['../_s_m_a_a_8cpp.html#a9abfe628c76188a2a5a2ed301e37b28d',1,'SMAA.cpp']]],
+  ['smaa_5fheader_5fvert_3143',['smaa_header_vert',['../_s_m_a_a_8cpp.html#a37aea9ebe8357fb2fea2963d7ad90c40',1,'SMAA.cpp']]],
+  ['smaa_5fneighbour_5ffrag_3144',['smaa_neighbour_frag',['../_s_m_a_a_8cpp.html#ac37b371046f325b2d5012cdd497fa24c',1,'SMAA.cpp']]],
+  ['smaa_5fneighbour_5fvert_3145',['smaa_neighbour_vert',['../_s_m_a_a_8cpp.html#a7fad5dd0d7400c340b2aa0fba2a9e1a2',1,'SMAA.cpp']]],
+  ['smaa_5fsearch_5ftex_3146',['smaa_search_tex',['../_s_m_a_a_8cpp.html#ada5e149ac2318cde4f29969581a0b019',1,'SMAA.cpp']]],
+  ['sprite_5ffrag_3147',['sprite_frag',['../_renderer2_d_8cpp.html#a9320480c7f1e46082a29398b45c7ec36',1,'Renderer2D.cpp']]],
+  ['sprite_5fvert_3148',['sprite_vert',['../_renderer2_d_8cpp.html#a2a971957f4db407110e1d8561e535862',1,'Renderer2D.cpp']]],
+  ['spritebatch_5ffrag_3149',['spritebatch_frag',['../_renderer2_d_8cpp.html#a7ba15bcc7f8049cd78ea0521fe4e61f0',1,'Renderer2D.cpp']]],
+  ['spritebatch_5fvert_3150',['spritebatch_vert',['../_renderer2_d_8cpp.html#a02eff4b5da2055f09747e38a6a8217b7',1,'Renderer2D.cpp']]],
+  ['standard_5ftype_3151',['standard_type',['../namespacegalaxy_1_1meta.html#a88f506856e2f1fe112ba7f224e41d6d8',1,'galaxy::meta']]],
+  ['subscribe_5fcallback_3152',['subscribe_callback',['../classgalaxy_1_1events_1_1_dispatcher.html#a8ed38e3598da305ec8ec1d7e4969db92',1,'galaxy::events::Dispatcher']]]
+];

@@ -1,0 +1,26 @@
+var classgalaxy_1_1core_1_1_scene2_d =
+[
+    [ "Scene2D", "classgalaxy_1_1core_1_1_scene2_d.html#aef57992a74b4758cc24192ab7204e3b5", null ],
+    [ "~Scene2D", "classgalaxy_1_1core_1_1_scene2_d.html#a62a75019c8cdae8cd43db0f3d7dd6326", null ],
+    [ "Scene2D", "classgalaxy_1_1core_1_1_scene2_d.html#a24247ba12845a6e7d4d7547b99dbef81", null ],
+    [ "create_maps", "classgalaxy_1_1core_1_1_scene2_d.html#ab905e08168aa8717b077e6fc139925bf", null ],
+    [ "deserialize", "classgalaxy_1_1core_1_1_scene2_d.html#abe1c4799fc9ee264148992bb5daae71e", null ],
+    [ "events", "classgalaxy_1_1core_1_1_scene2_d.html#a46719abe9c30f6faf0d864ffc44d4649", null ],
+    [ "get_active_map", "classgalaxy_1_1core_1_1_scene2_d.html#a6c604f36c1c6da874dad98c3888cbebf", null ],
+    [ "get_map", "classgalaxy_1_1core_1_1_scene2_d.html#a944492eff22dba72b1a5ed4358e91a1a", null ],
+    [ "on_pop", "classgalaxy_1_1core_1_1_scene2_d.html#a8813a9fcb56ae77febe3bd4bfb18e270", null ],
+    [ "on_push", "classgalaxy_1_1core_1_1_scene2_d.html#a6b86a7295be37980154d6aa39850d39f", null ],
+    [ "pre_render", "classgalaxy_1_1core_1_1_scene2_d.html#ae23faf4fb915dbcde35a48f311d1f929", null ],
+    [ "render", "classgalaxy_1_1core_1_1_scene2_d.html#acc2d0958de39f0f3e0edb951fe63ed53", null ],
+    [ "serialize", "classgalaxy_1_1core_1_1_scene2_d.html#a10a86aa39dcee6072e28fc58ae9215e3", null ],
+    [ "set_active_map", "classgalaxy_1_1core_1_1_scene2_d.html#a66e62eddc1896cb432daf53fbc62d91c", null ],
+    [ "update", "classgalaxy_1_1core_1_1_scene2_d.html#a68a742c3c13ce0f6e4b56ab674a91b96", null ],
+    [ "m_active_map", "classgalaxy_1_1core_1_1_scene2_d.html#acfcb7052e222b6b2d0eef30c90cd0dd2", null ],
+    [ "m_camera", "classgalaxy_1_1core_1_1_scene2_d.html#a2d01e6c1e740e8dbf2eec149c3904741", null ],
+    [ "m_dispatcher", "classgalaxy_1_1core_1_1_scene2_d.html#afd7a6eb4e1df067b405f209888489d13", null ],
+    [ "m_maps", "classgalaxy_1_1core_1_1_scene2_d.html#a40dc341b9de6d52aad78d50f7c5339d5", null ],
+    [ "m_maps_path", "classgalaxy_1_1core_1_1_scene2_d.html#a769e01aee2447d9699de1e7cf79a5066", null ],
+    [ "m_name", "classgalaxy_1_1core_1_1_scene2_d.html#a068d7ad66b4d10cca6215fee0a971e09", null ],
+    [ "m_rendersystem", "classgalaxy_1_1core_1_1_scene2_d.html#abafea6df06a1d8c5f7a058a77d31287e", null ],
+    [ "m_world", "classgalaxy_1_1core_1_1_scene2_d.html#ab8e91196d1b8287ab00695cdf12e9ce0", null ]
+];

@@ -1,0 +1,25 @@
+var classgalaxy_1_1graphics_1_1_sprite_batch =
+[
+    [ "SpriteBatch", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a247fee86a3cac0215f1a47face4b4b92", null ],
+    [ "SpriteBatch", "classgalaxy_1_1graphics_1_1_sprite_batch.html#ab52153923c26df407bde030cb049b9aa", null ],
+    [ "~SpriteBatch", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a7ac3f24a0d435be039e4c16a3c410cef", null ],
+    [ "SpriteBatch", "classgalaxy_1_1graphics_1_1_sprite_batch.html#ac27f9216b478c56635470bbb37855056", null ],
+    [ "add", "classgalaxy_1_1graphics_1_1_sprite_batch.html#ab73b57eaddd4f6f513c5f83ac41662a7", null ],
+    [ "add_texture", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a3efe4427f9e212c1fdd1f366895fd0fd", null ],
+    [ "bind", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a439e4fd105668331543ce9e78cae1674", null ],
+    [ "buffer_data", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a5f00a5f46ea2c17f128233f63ffb00dd", null ],
+    [ "clear", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a0fcb82664324cb9f10d5d81ee1a9f8af", null ],
+    [ "count", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a255a08df69463273c7e5adee96b11f6a", null ],
+    [ "get_height", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a496042a5d49a3add15b4573dc92ee7a6", null ],
+    [ "get_width", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a436e595217f7c2733112721a98bcca30", null ],
+    [ "gl_texture", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a01a7759e4bf18c6f65d9a3fad6556503", null ],
+    [ "operator=", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a1d56b06b4e28d1d38b8d785c35f517f5", null ],
+    [ "operator=", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a8d37f83e14fdfff22b6dabecfab47eef", null ],
+    [ "unbind", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a748e78e8f8c3c4a81db11b573b9c25ff", null ],
+    [ "vao", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a6d89c503dc4218d4c5765344142d7eb8", null ],
+    [ "m_height", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a895eff6332e8a4fbd3e7a2e00d0bc1c4", null ],
+    [ "m_texture", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a968225fb08d3831c2431fc09cb800001", null ],
+    [ "m_vao", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a8c039142d44cbdd909a1c6be2f3fae10", null ],
+    [ "m_vertices", "classgalaxy_1_1graphics_1_1_sprite_batch.html#aac9742ee52eda33ee806112facf12309", null ],
+    [ "m_width", "classgalaxy_1_1graphics_1_1_sprite_batch.html#a7fc4e5e11f46e2e826654b1787f64c83", null ]
+];
